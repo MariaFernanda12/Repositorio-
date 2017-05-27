@@ -120,7 +120,7 @@
 
             <ul>
                 <li><a href="CrearListar" id="a">Lista de Elementos</a></li>
-                <li><a href="ListarPorArea.jsp" id="b">Lista por Area</a></li>
+                <li><a href="ListarPorAreaU.jsp" id="b">Lista por Area</a></li>
                 <li><a href="BuscarElementoU.jsp" id="c">Busqueda</a></li>
 
             </ul>
